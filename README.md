@@ -1,1 +1,0 @@
-# Wasserstein_gan
